@@ -14,9 +14,7 @@ get_header(); ?>
 <?php require_once('menu.php'); ?>
 <div class="wrapper">
 <div id="article">
-	<h1 >Oops! <br />
-That page can&rsquo;t be found.</h1>
-
+	<h1>Sorry<br />That page can&rsquo;t be found.</h1>
 </div><!-- article -->
 </div><!-- wrapper -->
 </div><!-- body -->
